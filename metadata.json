@@ -1,0 +1,7 @@
+{
+  "name": "Gym Sync - Multi-Device Music Controller",
+  "description": "A collaborative music queue manager and Bluetooth device controller. Sync playback across devices and manage a shared playlist in real-time.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
